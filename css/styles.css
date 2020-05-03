@@ -6,7 +6,7 @@ body{
 }
 p{
     line-height: 2;
-    font-family: 'Merriweather', serif;
+ 
 }
 hr{
     border: dotted #eaf6f6 6px;
@@ -35,9 +35,7 @@ h3{
     font-family: 'Montserrat', sans-serif;
     color: #11999E;
 }
-.intro{
-    margin: auto;
-}
+
 .top-container{
 background-color: #F0F8FF;
 position: relative;
